@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Cartas_Españolas.Model
 {
-    internal class Baraja
+    public class Baraja
     {
     }
 }
